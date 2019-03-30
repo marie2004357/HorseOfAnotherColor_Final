@@ -1,0 +1,9 @@
+C:\Users\marie\source\repos\HorseOfAnotherColor\HorseOfAnotherColor\obj\Debug\HorseOfAnotherColor.csproj.CoreCompileInputs.cache
+C:\Users\marie\source\repos\HorseOfAnotherColor\HorseOfAnotherColor\bin\Debug\HorseOfAnotherColor.exe.config
+C:\Users\marie\source\repos\HorseOfAnotherColor\HorseOfAnotherColor\bin\Debug\HorseOfAnotherColor.exe
+C:\Users\marie\source\repos\HorseOfAnotherColor\HorseOfAnotherColor\bin\Debug\HorseOfAnotherColor.pdb
+C:\Users\marie\source\repos\HorseOfAnotherColor\HorseOfAnotherColor\obj\Debug\HorseOfAnotherColor.exe
+C:\Users\marie\source\repos\HorseOfAnotherColor\HorseOfAnotherColor\obj\Debug\HorseOfAnotherColor.pdb
+C:\Users\marie\source\repos\HorseOfAnotherColor\HorseOfAnotherColor\bin\Debug\Database1.mdf
+C:\Users\marie\source\repos\HorseOfAnotherColor\HorseOfAnotherColor\bin\Debug\Database1_log.ldf
+C:\Users\marie\source\repos\HorseOfAnotherColor\HorseOfAnotherColor\obj\Debug\HorseOfAnotherColor.csprojAssemblyReference.cache
