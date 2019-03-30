@@ -1,0 +1,1 @@
+HorseOfAnotherColor_Final is a application that allows the user to input a horse name, color and gender.  After the user inputs the horse details the user may then right click on the table (HorseE) and refresh and display the data and see the additional horse details that were added.
